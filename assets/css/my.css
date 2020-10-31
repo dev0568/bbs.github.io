@@ -1,0 +1,308 @@
+    body {
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    * {
+        box-sizing: border-box;
+        max-width: 100%;
+        margin: 0;
+    }
+    
+    .topbar {
+        text-align: center;
+        background-color: rgb(68, 188, 216);
+        color: white;
+        font-size: smaller;
+    }
+    /*header start*/
+    
+    .clul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .clul li {
+        display: inline-block;
+        padding-top: 30px;
+        padding-right: 25px;
+        padding-left: 10px;
+        font-size: smaller;
+    }
+    
+    .button {
+        background-color: rgb(111, 208, 43);
+        color: white;
+        border: 0;
+        outline: none;
+        padding-right: 4px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        font-size: x-small;
+    }
+    
+    .container {
+        width: 100%;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+    
+    .flexdisplay {
+        display: flex;
+    }
+    
+    .width {
+        width: 50%;
+    }
+    
+    .padding {
+        padding-bottom: 20px;
+    }
+    
+    .flex {
+        width: 100%;
+        display: flex;
+        background-color: rgb(215, 229, 243);
+        align-items: center;
+    }
+    
+    .cflex {
+        width: 50%;
+    }
+    
+    .buttontwo {
+        background-color: rgb(111, 208, 43);
+        color: white;
+        border: 0;
+        outline: none;
+        padding: 10px 10px 10px 10px;
+        font-size: 20px;
+    }
+    
+    .display {
+        display: flex;
+    }
+    
+    .bgcolor {
+        width: 100%;
+        background-color: rgb(51, 159, 255);
+        display: flex;
+    }
+    
+    .circle {
+        height: 100px;
+        width: 100px;
+        margin: 0;
+        margin: auto;
+        border-radius: 100px;
+        background-color: rgb(51, 159, 255);
+        text-align: center;
+        /* display: flex; */
+        /* flex-wrap: wrap; */
+        /* align-items: center; */
+        /* justify-content: center; */
+        font-size: 14px;
+        padding: 20px 0;
+        color: white;
+    }
+    
+    .mrt40 {
+        margin-top: 40px;
+    }
+    /*are you ready starts from here*/
+    
+    .fontsize {
+        font-size: large;
+    }
+    
+    .text {
+        color: white;
+        font: normal normal normal 14px/1 FontAwesome;
+    }
+    
+    .imgaln {
+        padding: 60px 0px 60px 75px;
+    }
+    
+    .padding {
+        padding-top: 20px;
+    }
+    
+    .btn {
+        margin-top: 20px;
+    }
+    
+    .text {
+        font-size: 40px;
+    }
+    /*whats includded starts from here*/
+    
+    .wdd {
+        width: 20px;
+    }
+    
+    .container {
+        max-width: 80%;
+    }
+    
+    .h2 {
+        text-align: center;
+        font-size: xx-large;
+        padding: 40px 0px 40px 0px;
+    }
+    
+    .display {
+        display: flex;
+    }
+    
+    .txtclrh {
+        color: rgb(51, 159, 255);
+    }
+    
+    .txtclrp {
+        color: rgb(180, 186, 193);
+    }
+    
+    .textbox {
+        padding: 40px 40px;
+    }
+    
+    .pd20px {
+        padding-top: 20px;
+    }
+    
+    .pd5px {
+        padding-top: 5px;
+    }
+    
+    .pd40px {
+        padding-top: 40px;
+    }
+    
+    .ulclass {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: block;
+        padding-top: 30px;
+        font: normal normal normal 14px/1 FontAwesome;
+        font-size: 14px;
+    }
+    
+    .ulclass li:before {
+        content: '\f00c ';
+        font: normal normal normal 14px/1 FontAwesome;
+        margin-right: 10px;
+        color: rgb(51, 159, 255);
+    }
+    
+    .pdli {
+        padding-top: 5%;
+    }
+    /*frequently asked questions--START--*/
+    
+    .contain {
+        width: 100%;
+        max-width: 500px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+    
+    .bgcllr {
+        background-color: rgb(249, 249, 249);
+    }
+    
+    .mr {
+        margin-top: 40px;
+        padding-bottom: 40px;
+    }
+    /*section END*/
+    /*joint the thosands--STARTS*/
+    
+    .clrr {
+        background-color: rgb(51, 159, 255);
+    }
+    
+    .txt {
+        color: white;
+        text-align: center;
+        font-size: 29px;
+        padding-top: 25px;
+    }
+    
+    .txt2 {
+        color: white;
+        text-align: center;
+        padding: 15px;
+    }
+    
+    .fat {
+        color: rgb(180, 186, 193);
+        font-size: 14px;
+        background-color: white;
+        padding: 6.8px;
+        width: 100%;
+    }
+    
+    .wd {
+        width: 33.3%;
+        padding: 45px;
+    }
+    /*section END*/
+    /*top selling START*/
+    
+    .align {
+        text-align: center;
+        color: white;
+    }
+    
+    .clbg {
+        background-color: rgb(0, 86, 172);
+    }
+    
+    .hfour {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        font-size: 36px;
+        font-family: cursive;
+        font-weight: 300;
+    }
+    
+    .btmpd {
+        padding-bottom: 40px;
+    }
+    /* Use a media query : */
+    
+    @media screen and (max-width: 767px) {
+        .flexdisplay,
+        .bgcolor,
+        .flex,
+        .display {
+            flex-direction: column;
+            width: 100%;
+            /* The width is 100%, when the viewport is 800px or smaller */
+        }
+        .wd {
+            width: 100%;
+            padding: 38px;
+        }
+        .container {
+            max-width: 100%;
+        }
+        .width {
+            width: 100%;
+        }
+        .imgaln {
+            padding: 20px;
+        }
+        .container {
+            max-width: 80%;
+            padding-bottom: 10px;
+        }
+        .padding {
+            padding-top: 20px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    }
